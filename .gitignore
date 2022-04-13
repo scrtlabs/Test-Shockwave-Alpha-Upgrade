@@ -1,2 +1,4 @@
 .secretd
 .sgx_secrets
+node-master-cert.der
+io-master-cert.der
